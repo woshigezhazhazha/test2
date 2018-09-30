@@ -1,2 +1,7 @@
 this is another filels -lih!
+<<<<<<< HEAD
 change something on branch master!!!
+=======
+and I want to add something here,
+you should know this is just for testing!
+>>>>>>> dep2
